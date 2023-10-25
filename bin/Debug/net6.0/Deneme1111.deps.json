@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Deneme1111/1.0.0": {
+        "runtime": {
+          "Deneme1111.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deneme1111/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
